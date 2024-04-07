@@ -7,18 +7,10 @@ body:
 - type: markdown
   attributes:
     value: >
-      Thank you for taking the time to report an issue in the documentation.
-      
-      Only report issues with documentation here, explain if there are
-      any missing topics or if you found a mistake in the documentation.
-      
-      Do **NOT** use this to ask usage questions or reporting issues with your code.
+      Thank you for taking the for a feature request.
       
       If you have usage questions or need help solving some problem, 
       please use [GitHub Discussions](https://github.com/langchain-ai/langchain/discussions).
-      
-      If you're in the wrong place, here are some helpful links to find a better
-      place to ask your question:
       
       [LangChain documentation with the integrated search](https://python.langchain.com/docs/get_started/introduction),
       [API Reference](https://api.python.langchain.com/en/stable/),
@@ -38,14 +30,9 @@ body:
         required: true
 - type: textarea
   attributes: 
-    label: "Issue with current documentation:"
+    label: "Feature request:"
     description: >
-      Please make sure to leave a reference to the document/code you're
+      Description of your feature request.
+      Please make sure to leave a reference to documents/code you're
       referring to. Feel free to include names of classes, functions, methods
-      or concepts you'd like to see documented more.
-- type: textarea
-  attributes:
-    label: "Idea or request for content:"
-    description: >
-      Please describe as clearly as possible what topics you think are missing
-      from the current documentation.
+      or concepts you'd like to utilize/enhance.
