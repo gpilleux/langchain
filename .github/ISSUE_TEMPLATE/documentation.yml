@@ -1,7 +1,7 @@
-name: Documentation
-description: Report an issue related to the LangChain documentation.
-title: "DOC: <Please write a comprehensive title after the 'DOC: ' prefix>"
-labels: [03 - Documentation]
+name: Fix/Feature Request
+description: Request a fix or new feature.
+title: "FEAT: <Please write a comprehensive title after the 'FEAT: ' prefix>"
+labels: [03 - Features]
 
 body:
 - type: markdown
