@@ -1,3 +1,5 @@
+# This script, `bot_ConversationalRetrievalChain.py`, is designed to facilitate conversational retrieval using a chain of components including document loading, vector store creation, conversation retrieval from a database, and interaction with a chatbot model. It integrates various LangChain functionalities to process and retrieve relevant information for conversational AI applications.
+
 #ConversationalRetrievalChain
 __import__('pysqlite3')
 import sys
